@@ -1,7 +1,7 @@
-# Exploratory Data Analysis (EDA) using Pandas and other Python libraries in the Hospitality domain
+# Exploratory Data Analysis (EDA) using Pandas and other Python libraries in the Hospitality domain.
 
 ## Overview
-This project focuses on performing Exploratory Data Analysis (EDA) on a booking dataset using Python and the Pandas library. The dataset contains detailed information on customer bookings,
+This project focuses on performing Exploratory Data Analysis (EDA) on a booking dataset using Pandas and other Pyhton libraries. The dataset contains detailed information on customer bookings,
 cancellations, destinations, and revenue, offering valuable insights into trends, customer behavior, and business performance. By analyzing the data, the project aims to uncover patterns that 
 can inform decision-making and optimize business operations.
 
