@@ -27,3 +27,5 @@ effort to apply data-driven techniques to solve real-world business problems in 
 The data for this project is obtained from the Kaggle dataset:
 
 - **Dataset Link** [Hospitality domain Dataset](https://www.kaggle.com/datasets/ad043santhoshs/hospitality-domain)
+
+  ## Business Data Explorations.
