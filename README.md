@@ -21,3 +21,9 @@ effort to apply data-driven techniques to solve real-world business problems in 
 - Optimize Pricing: Perform price analysis to discover optimal pricing strategies that maximize revenue while maintaining customer satisfaction.
 
 - Assess Booking Channels: Evaluate the performance of different booking channels (online, phone, in-person) and their impact on overall business revenue
+
+
+## Data source
+The data for this project is obtained from the Kaggle dataset:
+
+- **Dataset Link** [Hospitality domain Dataset](https://www.kaggle.com/datasets/ad043santhoshs/hospitality-domain)
